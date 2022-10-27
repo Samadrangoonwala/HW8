@@ -16,9 +16,13 @@
 <!-- Your map goes here -->
 <a href="HW8.png">
     <img src="HW8.png" alt="HW " width='500px'>
-    <h3>New data files can be found in</h3>
-<a href="">
-<a href=HW7Vector.geojson">
+    <h3>Data found out </h3>
+<a href="http://maps.co.mecklenburg.nc.us/openmapping/data.html">
+<h3>New data files can be found in</h3>
+<a href="https://github.com/Samadrangoonwala/HW8/blob/main/Union.geojson">
+<h3>Unioned Buffers</h3>
+<a href="https://github.com/Samadrangoonwala/HW8/blob/main/Meckdif.geojson">
+<h3>Symetric Difference of the union and meck county boundary </h3>
 <p> 
 </p>
     
