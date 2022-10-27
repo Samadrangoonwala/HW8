@@ -15,7 +15,7 @@
 <h3>   </h3>
 <!-- Your map goes here -->
 <a href="HW8.png">
-    <img src="" alt="HW " width='500px'>
+    <img src="HW8.png" alt="HW " width='500px'>
     <h3>New data files can be found in</h3>
 <a href="">
 <a href=HW7Vector.geojson">
